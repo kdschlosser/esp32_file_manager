@@ -23,9 +23,10 @@ I still have to write a setup script for the installation end of things
 There are a couple of requird libraries.
 
 ***Requirements***
-wxPython 4.1.1
-pySerial
-send2trash
+
+* wxPython 4.1.1
+* pySerial
+* send2trash
 
 
 ***Features***
